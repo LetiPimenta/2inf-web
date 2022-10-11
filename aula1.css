@@ -1,0 +1,21 @@
+main p{
+	background: pink;
+	
+}
+main h1{
+	background: pink;
+}
+#logo{
+	width: 40%;
+	opacity: 0.8;
+	box-shadow: 10px 10px 5px pink, -10px -10px 5px pink;
+}
+  .principal{
+  	 width: 60%;
+  	 box-shadow: 10px 10px 5px pink;
+  }
+  #logo{
+	width: 40%;
+	opacity: 0.8;
+	box-shadow: -10px -10px -5px pink, -10px -10px 5px pink;
+}
